@@ -1,0 +1,5 @@
+username,example@example.com
+password,yourPasswordHere
+subject,mailSubjectHere
+timeInterval,10
+bcc,40
