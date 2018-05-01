@@ -1,4 +1,4 @@
-# Project Title
+# massMailerBCC
 
 This is a Python2 application for sending bulk mail lists with bcc.
 
