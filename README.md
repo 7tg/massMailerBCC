@@ -23,21 +23,21 @@ Mail list need to be in mail.txt in order to use GUI, and there is also USERFILE
 The mail you want to send need to be in html format, you can edit html_file.html.
 
 Example USERFILE
-'''
+```
 username,example@example.com
 password,yourPasswordHere
 subject,mailSubjectHere
 timeInterval,10 //Interval for program to wait
 bcc,40 // You can add at most 80 BCC in a single mail
-'''
+```
 
 Example mail.txt
-'''
+```
 example@exapmle.com
 example@exapmle.com
 example@exapmle.com
 example@exapmle.com
-'''
+```
 
 ## Built With
 
